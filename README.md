@@ -8,8 +8,8 @@ This repository contains all the file of Inventory Management System of JSON fil
   4. Record.json : It has record of all product their price quantity etc.    
   5. Sales.json : It has data of all the purchased product.     
 
-> Javascript Object Notation abbreviated as JSON is a light weight data-interchange format.     
-> It encode Python objects as JSON strings and decode JSON strings into Python objects.    
+Javascript Object Notation abbreviated as JSON is a light weight data-interchange format.     
+It encode Python objects as JSON strings and decode JSON strings into Python objects.    
 
  - json.dump(obj,fileObj) : Serializies obj as JSON formatted stream to fileObj.      
  - json.dumps(obj) : Serializies obj as JSON formatted string.      
