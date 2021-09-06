@@ -21,4 +21,4 @@ It encode Python objects as JSON strings and decode JSON strings into Python obj
 ### Who am I?   
 My name is Jigyasa Bisht. I am currently 3rd year CSE undergrad with specialization in Artificial Intelligence and Machine Learning. 
 
-LinkedIn Profile Link : https://www.linkedin.com/in/jigyasa-bisht-99a6541b9/
+[LinkedIn](https://www.linkedin.com/in/jigyasa-bisht-99a6541b9/)
