@@ -1,4 +1,4 @@
-# JSON_Project_ELITE_Technologies     
+# JSON_IMS_Project_ELITE_Technologies     
 
 ## About the Repository?    
 This repository contains all the file of Inventory Management System of JSON file project by Elite Techno Groups.     
